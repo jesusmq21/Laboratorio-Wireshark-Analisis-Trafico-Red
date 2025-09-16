@@ -28,7 +28,7 @@ icmp
 ```
 
 *Evidencia:*
-![ICMP Request/Reply](images/icmp.png)
+![ICMP Request/Reply](images/filtroicmp.png)
 
 ---
 
