@@ -65,7 +65,7 @@ tcp.port == 22
 ```
 
 *Evidencia:*
-![SSH Handshake](images/ssh.png)
+![SSH Handshake](filtrosssh2.png)
 
 ---
 
