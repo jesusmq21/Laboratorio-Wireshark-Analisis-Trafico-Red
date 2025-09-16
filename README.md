@@ -44,7 +44,7 @@ http
 ```
 
 *Evidencia:*
-![HTTP Request](images/http.png)
+![HTTP Request](filtrohttp.png)
 
 ---
 
