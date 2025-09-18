@@ -92,9 +92,3 @@ Durante el análisis se aplicaron distintos filtros para aislar protocolos y hos
   * Uso de filtros avanzados en Wireshark.
   * Documentación técnica de tráfico real.
 
----
-
-👉 Jesús, con esto ya tienes un **README.md listo para tu GitHub**.
-Solo falta que pongas tus capturas en la carpeta `/images/` y cambies los nombres de los archivos en los `![ ]( )`.
-
-¿Quieres que también te haga el **banner visual estilo “Laboratorio Wireshark”** para acompañar este repo en GitHub, igual que hicimos con el de Nmap?
